@@ -38,7 +38,7 @@ const PopularVehicle = (props) => {
         </Col>
         <Col md={4}>
           <h2>
-            <sup>$</sup>
+            <sup>Ksh.</sup>
             <span>{pricePerHour}</span>
           </h2>
           <p>rent per hour</p>
